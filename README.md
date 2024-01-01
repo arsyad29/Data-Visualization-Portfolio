@@ -1,4 +1,4 @@
-# All of Images
+# All of Images from PDF
 ## Clustering DBSCAN Visualization Student Academic Dataset
 ![Finall_Portfolio_Clustering_DBSCAN_Final_page-0001](https://github.com/arsyad29/images/blob/main/1/Finall_Portfolio_Clustering_DBSCAN_Final_page-0001.jpg)
 ![Finall_Portfolio_Clustering_DBSCAN_Final_page-0002](https://github.com/arsyad29/images/blob/main/1/Finall_Portfolio_Clustering_DBSCAN_Final_page-0002.jpg)
