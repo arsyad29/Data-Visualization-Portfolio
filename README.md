@@ -1,4 +1,8 @@
 # All of Images from PDF
+
+## Indonesia Earthquakes 2023 Over 5 Magnitude
+![Indonesia Earthquake_FIX_page-0005](https://github.com/arsyad29/images/blob/main/4/Indonesia%20Earthquake_FIX_page-0005.jpg)
+
 ## Clustering DBSCAN Visualization Student Academic Dataset
 ![Finall_Portfolio_Clustering_DBSCAN_Final_page-0001](https://github.com/arsyad29/images/blob/main/1/Finall_Portfolio_Clustering_DBSCAN_Final_page-0001.jpg)
 ![Finall_Portfolio_Clustering_DBSCAN_Final_page-0002](https://github.com/arsyad29/images/blob/main/1/Finall_Portfolio_Clustering_DBSCAN_Final_page-0002.jpg)
