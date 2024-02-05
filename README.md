@@ -1,7 +1,9 @@
 # All of Images from PDF
 
 ## Indonesia Earthquakes 2023 Over 5 Magnitude
-![Indonesia Earthquake_FIX_page-0005](https://github.com/arsyad29/images/blob/main/4/Indonesia%20Earthquake_FIX_page-0005.jpg)
+![Indonesia Earthquake_Correct_page-0001.jpg](https://github.com/arsyad29/images/blob/main/4/Indonesia%20Earthquake_Correct_page-0001.jpg)
+###Mobile Version
+![Indonesia Earthquake_Correct_page-0002.jpg](https://github.com/arsyad29/images/blob/main/4/Indonesia%20Earthquake_Correct_page-0002.jpg)
 
 ## Ecommerce Product Visualization
 ![Ecommerce-Product-Visualization](https://github.com/arsyad29/images/blob/main/3/E-Commerce%20Product%20Visualization_page-0001.jpg)
