@@ -1,4 +1,4 @@
-# All of Images from PDF
+# All Images from PDF
 
 ## Indonesia Earthquakes 2023 Over 5 Magnitude
 ![Indonesia Earthquake_Correct_page-0001.jpg](https://github.com/arsyad29/images/blob/main/4/Indonesia%20Earthquake_Correct_page-0001.jpg)
